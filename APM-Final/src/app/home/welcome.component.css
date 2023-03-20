@@ -1,0 +1,21 @@
+#banner {
+    height: 30vh;
+    overflow: hidden;
+    position: relative;
+}
+
+#banner-image-container {
+    height: 60vh;
+    width: 100vw;
+    position:absolute;
+    top:0;
+    left:0;
+}
+
+#banner-background-image-container {
+    height: 60vh;
+    width: 100vw;
+    position:relative;
+    top:0;
+    left:0;
+}

@@ -2,9 +2,9 @@ import { Component} from "@angular/core";
 
 @Component({
   selector: 'pm-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  templateUrl: './ufunguo.component.html'
 })
-export class AppComponent {
+
+export class UfunguoComponent {
   pageTitle = 'Keypark Zoo';
 }
